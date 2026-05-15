@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-Artificial intelligence is restructuring the labour market faster than existing institutions can absorb. The disruption is not uniform: it concentrates on routine cognitive tasks, middle-wage occupations, and geographically exposed communities while generating gains for high-skill workers and capital owners. Without active policy, this trajectory will deepen wage polarisation, erode public trust, and leave displaced workers without viable pathways. Imagine a 2035 where the Minister checks a dashboard showing unemployment at 4.1 percent, reskilling enrolments at record highs, and productivity growth distributed across the income spectrum — that future is achievable, but it requires deliberate action now. This brief defines the problem, assesses workforce impacts, evaluates three policy options, and recommends a coordinated package with a phased implementation plan. Inaction is not a neutral choice; it is a choice for the worse trajectory.
+Artificial intelligence is restructuring the labour market faster than existing institutions can absorb. The disruption is not uniform: it concentrates on routine cognitive tasks, middle-wage occupations, and geographically exposed communities while generating gains for high-skill workers and capital owners. Without active policy, this trajectory will deepen wage polarisation, erode public trust, and leave displaced workers without viable pathways. This brief defines the problem, assesses workforce impacts, evaluates three policy options, and recommends a coordinated package with a phased implementation plan.
 
 ---
 
@@ -17,11 +17,13 @@ Artificial intelligence is restructuring the labour market faster than existing 
 
 AI is changing work through three distinct channels.
 
-**Task automation** replaces discrete human tasks — document review, data entry, call-centre triage, image classification — within occupations that are not eliminated wholesale. This task-level disruption is economically significant because it shifts the skill mix required within roles without triggering the occupational displacement that unemployment statistics capture (Autor, 2024).
+**Task automation** replaces discrete human tasks — document review, data entry, call-centre triage, image classification — within occupations that are not eliminated wholesale. This task-level disruption is economically significant because it shifts the skill mix required within roles without triggering the occupational displacement that unemployment statistics capture (Autor et al., 2003; Autor, 2019).
 
 **Augmentation and complementarity** raises the productivity of workers who can direct, interpret, or quality-check AI outputs. This creates a within-occupation divergence: workers who adapt earn more; those who cannot are compressed toward lower-value residual tasks.
 
 **Data and platform concentration** structurally advantages firms with large proprietary datasets, compounding market power over time and locking out smaller employers from the productivity gains AI generates (Acemoglu & Restrepo, 2018). The result is an economy bifurcated between AI-integrated, high-productivity sectors and stagnating sectors with limited access to the technology.
+
+Standard economic theory predicts that technology creates new tasks that absorb displaced workers — the reinstatement channel. Evidence suggests this is operating more slowly than in prior technological waves: AI is simultaneously automating cognitive tasks across a wider occupational range, while the new roles it creates require substantially different human capital from those eliminated (Acemoglu & Restrepo, 2019). This displacement–reinstatement asymmetry is the central policy problem.
 
 Current policy architecture — designed around occupational displacement and firm-level bargaining — is mismatched to these channels. The adjustment mechanisms exist; they are simply aimed at the wrong target.
 
@@ -35,7 +37,7 @@ Aggregate employment effects are modest in the short run but structurally signif
 
 ### Wages
 
-Wage polarisation is the clearest distributional consequence. Brynjolfsson and McAfee (2014) identify a pulling apart at the top and bottom of the wage distribution, with the middle compressing as routine cognitive roles are absorbed. McKinsey Global Institute (2023) projects that generative AI alone could automate tasks equivalent to 60–70 percent of current employee time in knowledge-work sectors, accelerating this dynamic. Workers without the capital or institutional support to reskill are structurally locked into the compressing segment.
+Wage polarisation is the clearest distributional consequence. Brynjolfsson and McAfee (2014) identify a pulling apart at the top and bottom of the wage distribution, with the middle compressing as routine cognitive roles are absorbed. McKinsey Global Institute (2023) projects, under accelerated adoption scenarios, that generative AI could automate tasks equivalent to 60–70 percent of employee time in knowledge-work sectors, accelerating this dynamic. Workers without the capital or institutional support to reskill are structurally locked into the compressing segment. This widens the gap between aggregate productivity growth and median wage growth: AI adoption raises output, but gains accrue to capital and high-skill complementors rather than flowing through to median workers via competitive labour markets.
 
 ### Industrial Structure and Equity
 
@@ -50,7 +52,7 @@ Three policy options are evaluated against four criteria: **effectiveness** (lab
 | Option | Effectiveness | Equity | Fiscal Cost | Feasibility |
 |---|---|---|---|---|
 | **1. National Reskilling Fund** | High — addresses supply-side skill gap directly | High — targets displaced and low-wage workers | Medium — levy-funded, scalable | Medium — requires delivery infrastructure |
-| **2. Labour Market Adjustment Mechanisms** | High — smooths transition, preserves firm-specific capital | Medium — benefits those already employed | Low — short-time work subsidies time-limited | High — adapts existing schemes |
+| **2. Labour Market Adjustment Mechanisms** | High — smooths transition, preserves firm-specific capital | Lower-medium — benefits incumbents in stable employment; limited reach to already-displaced workers | Low — short-time work subsidies time-limited | High — adapts existing schemes |
 | **3. Competition & Data Policy Reform** | Medium — structural, long-run effect | High — prevents concentration from compounding inequality | Low — regulatory cost only | Low — complex, multi-agency, slow |
 
 **Option 1 — National Reskilling Fund:** A levy on AI-derived productivity gains finances portable, modular credentials in high-demand fields. Credentials are tied to individuals, not employers, preserving benefit continuity during transitions. Regional delivery through employment centres addresses geographic exposure.
@@ -63,7 +65,7 @@ Three policy options are evaluated against four criteria: **effectiveness** (lab
 
 ## Recommended Package & Implementation Plan
 
-No single option is sufficient. The recommended package combines all three in a phased sequence.
+No single option is sufficient. The recommended package combines all three in a deliberate sequence: adjustment mechanisms are legislated first because regulatory change is faster than building new delivery infrastructure; the National Reskilling Fund scales once pilot centres establish that infrastructure; and structural data reform follows, operating on the longer institutional timeline it requires.
 
 | Phase | Timeline | Actions | Responsible Agency | Estimated Cost | KPIs |
 |---|---|---|---|---|---|
@@ -71,7 +73,7 @@ No single option is sufficient. The recommended package combines all three in a 
 | **2 — Scale** | Years 2–3 | National Reskilling Fund operational; short-time work scheme retooled | DESE, ATO | $1.2B/yr (levy-funded) | Credential completions, wage recovery rate |
 | **3 — Structural** | Years 3–5 | Data-sharing obligations enacted; merger review criteria updated; sectoral bargaining frameworks include AI governance | ACCC, Fair Work | Regulatory only | HHI trends, SME AI adoption rates |
 
-**Key Performance Indicators** for the full package: (1) share of displaced workers re-employed at equivalent wage within 24 months; (2) regional wage dispersion index; (3) SME AI productivity adoption rate; (4) credential completion rates by income quartile.
+**Key Performance Indicators** for the full package: (1) share of displaced workers re-employed at equivalent wage within 24 months, target 60% by Year 3; (2) regional wage dispersion index held at or below 2024 baseline by Year 5; (3) SME AI productivity adoption rate doubling by Year 5; (4) credential completion rates by income quartile, targeting parity across bottom two quartiles by Year 4.
 
 ---
 
@@ -91,7 +93,11 @@ No single option is sufficient. The recommended package combines all three in a 
 
 Acemoglu, D., & Restrepo, P. (2018). *Artificial intelligence, automation, and work*. NBER Working Paper No. 24196. National Bureau of Economic Research.
 
-Autor, D. (2024). Work of the past, work of the future. *AEA Papers and Proceedings*, 113, 1–32.
+Acemoglu, D., & Restrepo, P. (2019). Automation and new tasks: How technology displaces and reinstates labor. *Journal of Economic Perspectives*, 33(2), 3–30.
+
+Autor, D. (2019). Work of the past, work of the future. *AEA Papers and Proceedings*, 109, 1–32.
+
+Autor, D. H., Levy, F., & Murnane, R. J. (2003). The skill content of recent technological change: An empirical exploration. *Quarterly Journal of Economics*, 118(4), 1279–1333.
 
 Brynjolfsson, E., & McAfee, A. (2014). *The second machine age: Work, progress, and prosperity in a time of brilliant technologies*. W. W. Norton & Company.
 
@@ -103,4 +109,4 @@ OECD. (2023). *OECD employment outlook 2023: Artificial intelligence and the lab
 
 ---
 
-*Word count (excluding references): 1,204*
+*Word count (excluding references): 1,256*
